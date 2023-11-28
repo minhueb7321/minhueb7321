@@ -42,7 +42,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="NumPy" width="40" height="40"/> </a>  
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>  
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://plotly.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/118670736-29bd2980-b7f7-11eb-8aa4-ad41fa393ed1.png" alt="plotly" width="100" height="40"></a> 
+<a href="https://plotly.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/118670736-29bd2980-b7f7-11eb-8aa4-ad41fa393ed1.png" alt="plotly" width="120" height="40"></a> 
 <a href="https://docs.python-requests.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/psf/requests/master/ext/requests-logo.png" alt="requests" width="40" height="40"/> </a> 
 <h5>MICROSOFT TOOLS</h5>
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" alt="PowerBI" width="40" height="40"/> </a>
